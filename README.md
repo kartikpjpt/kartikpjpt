@@ -62,8 +62,3 @@
         <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpjpt&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
 
-## 🐱My Github stats:
-
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=kartikpjpt&theme=gruvbox&margin-w=10" />
-</div>
