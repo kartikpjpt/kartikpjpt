@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
         </code>
     <code>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg/JavaScript-282C34?logo=JavaScript" alt="React.js" title="React.js" height="25" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" title="React.js" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
