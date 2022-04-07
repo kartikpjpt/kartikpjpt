@@ -40,15 +40,6 @@
         <img src="https://img.shields.io/badge/Webpack-282C34?logo=Webpack" alt="Webpack" title="Webpack" height="25" />
         </code>
         <code>
-        <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js" alt="Nuxt.js" title="Nuxt.js" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js" title="Vue.js" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Svelte-282C34?logo=Svelte" alt="Svelte" title="Svelte" height="25" />
-        </code>
-        <code>
         <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=Ubuntu" alt="Ubuntu" title="Ubuntu" height="25" />
         </code>
         <code>
