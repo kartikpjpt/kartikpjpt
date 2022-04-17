@@ -58,6 +58,7 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
+    <br/>
     <div align='center'>
         <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpjpt&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
