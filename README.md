@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
         </code>
     <code>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" title="React.js" height="25" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" title="React.js" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
@@ -36,9 +36,7 @@
         <code>
         <img src="https://img.shields.io/badge/PostCSS-282C34?logo=PostCSS" alt="PostCSS" title="PostCSS" height="25" />
         </code>
-        <code>
-        <img src="https://img.shields.io/badge/PWA-282C34?logo=PWA" alt="PWA" title="PWA" height="25" />
-        </code>
+     
         <code>
         <img src="https://img.shields.io/badge/Webpack-282C34?logo=Webpack" alt="Webpack" title="Webpack" height="25" />
         </code>
