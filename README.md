@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+KartikPrajapat!+👋;I'm+a+Full+Stack+Blockchain+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+KartikPrajapat!+👋;I'm+a+Full+Stack+Blockchain+Developer)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/kartikpjpt)](https://twitter.com/kartikpjpt)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:kr.pjpt@gmail.com)
