@@ -58,7 +58,10 @@
         <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
         </code>
     </div>
-    <div>
+    <div align='center'>
         <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpjpt&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
+    <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Viper-M&show_icons=true&count_private=true&theme=dark" width="500"></a>
+</p>
 
