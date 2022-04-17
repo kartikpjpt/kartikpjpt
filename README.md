@@ -62,6 +62,6 @@
         <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpjpt&layout=compact&text_color=daf7dc&bg_color=151515">
     </div>
     <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Viper-M&show_icons=true&count_private=true&theme=dark" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kartikpjpt&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
